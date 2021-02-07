@@ -1,6 +1,8 @@
 Plataforma voto electrónico educativa
 =====================================
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e80760042b8243eb885b5f820a0f20e9)](https://app.codacy.com/gh/javvazzam/EGC-1819-1230?utm_source=github.com&utm_medium=referral&utm_content=javvazzam/EGC-1819-1230&utm_campaign=Badge_Grade_Settings)
+
 El objetivo de este proyecto es implementar una plataforma de voto
 electrónico seguro, que cumpla una serie de garantías básicas, como la
 anonimicidad y el secreto del voto.
