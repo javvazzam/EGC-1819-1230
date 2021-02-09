@@ -70,7 +70,7 @@ MODULES = [
     'voting',
 ]
 
-BASEURL = 'http://pruebajavvazzam.heroku.app.com'
+BASEURL = 'http://pruebajavvazzam.herokuapp.com'
 
 APIS = {}
 
