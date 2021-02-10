@@ -26,3 +26,5 @@ deploy:
   app: pruebajavvazzam
   strategy: git
   api_key: $HEROKU_AUTH_TOKEN
+
+if: branch = master
