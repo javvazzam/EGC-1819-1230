@@ -27,6 +27,8 @@ Para configurar el proyecto, podremos crearnos un fichero local_settings.py basa
 local_settings.example.py, donde podremos configurar la ruta de nuestras apps o escoger que módulos
 ejecutar.
 
+Soy un profesional devops
+
 Una vez hecho esto, será necesario instalar las dependencias del proyecto, las cuales están en el
 fichero requirements.txt:
 
